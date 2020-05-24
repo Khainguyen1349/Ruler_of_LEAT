@@ -13,10 +13,12 @@ provided by people from LEAT.
 Picture of first and second version is as following
 
 *** Version 1
+
 ![alt text](https://github.com/Khainguyen1349/Ruler_of_LEAT/blob/master/Pictures/1.jpg)
 
 ![alt text](https://github.com/Khainguyen1349/Ruler_of_LEAT/blob/master/Pictures/2.jpg)
 
 
 *** Version 2
+
 ![alt text](https://github.com/Khainguyen1349/Ruler_of_LEAT/blob/master/Pictures/image.png)
