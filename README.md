@@ -9,3 +9,6 @@ The design are:
 - Reconfigurable slot antenna with SP4T switch at 2.4GHz
 - 868MHz meandered IFA and 2.4GHz rectenna
 provided by people from LEAT.
+
+Picture of first and second version is as following
+![alt text](https://github.com/Khainguyen1349/AnechoicChamberGainMeasurement/blob/master/Pictures/AntennaChamber.jpg)
