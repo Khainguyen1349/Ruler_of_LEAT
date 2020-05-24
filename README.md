@@ -11,4 +11,12 @@ The design are:
 provided by people from LEAT.
 
 Picture of first and second version is as following
-![alt text](https://github.com/Khainguyen1349/AnechoicChamberGainMeasurement/blob/master/Pictures/AntennaChamber.jpg)
+
+*** Version 1
+![alt text](https://github.com/Khainguyen1349/Ruler_of_LEAT/blob/master/Pictures/1.jpg)
+
+![alt text](https://github.com/Khainguyen1349/Ruler_of_LEAT/blob/master/Pictures/2.jpg)
+
+
+*** Version 2
+![alt text](https://github.com/Khainguyen1349/Ruler_of_LEAT/blob/master/Pictures/image.png)
